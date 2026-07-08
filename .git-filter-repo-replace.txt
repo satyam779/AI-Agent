@@ -1,1 +1,0 @@
-regex:GROQ_API_KEY\s*=\s*['\"].*?['\"]==>GROQ_API_KEY = ""
