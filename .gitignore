@@ -22,8 +22,3 @@ backend/crm.db
 npm-debug.log*
 yarn-debug.log*
 pnpm-debug.log*
-node_modules/
-frontend/dist/
-frontend/node_modules/
-frontend/.vite/
-frontend/build/
